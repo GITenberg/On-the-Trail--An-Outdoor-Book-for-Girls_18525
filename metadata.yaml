@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '8087'
     url: http://www.gutenberg.org/2009/agents/8087
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18525#On-the-Trail--An-Outdoor-Book-for-Girls
 gutenberg_bookshelf:
 - Camping
 - Children's Instructional Books
